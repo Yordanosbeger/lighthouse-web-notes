@@ -13,7 +13,7 @@ function whatToDoForLunch(hungry, availableTime) {
   if( hungry){
   console.log("hungry is", hungry)
   }
-  if else(availableTime >=20){
+  else if (availableTime >=20){
   console.log("availableTime is", availableTime)
 }
 }
